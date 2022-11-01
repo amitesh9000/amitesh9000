@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amitesh9000
-- 👀 I’m interested in CGPA
-- 🌱 I’m currently learning CSE
+- 👀 I’m interested in IT jobs
+- 🌱 I have completed B.Tech CSE from Vellore Institute of Technology
 - 📫 How to reach me amiteshroy417@gmail.com
 
 <!---
